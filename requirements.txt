@@ -1,3 +1,4 @@
+fuzzywuzzy
 mox
 nose
 django>=1.4
